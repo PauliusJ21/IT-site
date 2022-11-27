@@ -1,0 +1,15 @@
+Go to localhost/phpmyadmin
+Create new database named 'kdbu'.
+Import the kdbu file from "Database file" in the root folder of the project.
+
+
+Must install composer:
+
+Open command prompt.
+Go to the root folder of the project.
+Type: composer install
+
+
+This project requires a localhost, I used xampp. 
+Might need to type in another command: php artisan serve
+Then copy the given link and open it. 
